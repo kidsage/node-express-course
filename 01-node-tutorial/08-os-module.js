@@ -1,4 +1,4 @@
-const os = require('os')
+const os = require("os") // python과 다르게 require시에 따옴표를 둘러 싸네.. 변수명도 동일하게 지정하고
 
 // info about current user
 const user = os.userInfo()
